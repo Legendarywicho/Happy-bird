@@ -1,0 +1,17 @@
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/UnityEngine.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/UnityEditor.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Mono.Cecil.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Unity.DataContract.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/legendarywicho/Desktop/HappyBird/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/legendarywicho/Desktop/HappyBird/obj/Debug/Assembly-CSharp.dll
+/Users/legendarywicho/Desktop/HappyBird/obj/Debug/Assembly-CSharp.dll.mdb
